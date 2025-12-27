@@ -1,0 +1,2 @@
+cd /home/svyatik/scripts/mcaselector
+/home/svyatik/scripts/mcaselector/zulu/bin/java -Xmx8G -jar mcaselector.jar
